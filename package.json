@@ -1,0 +1,19 @@
+{
+  "name": "sass-marlo",
+  "version": "1.0.1",
+  "description": "Personal Sass Utilities",
+  "main": "sassmarlo.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarreon/sass-marlo.git"
+  },
+  "author": "\u001b[A\u001b[B\u001b[D Marlo Carreon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcarreon/sass-marlo/issues"
+  },
+  "homepage": "https://github.com/mcarreon/sass-marlo#readme"
+}
