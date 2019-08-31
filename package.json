@@ -1,6 +1,6 @@
 {
   "name": "sass-marlo",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "description": "Personal Sass Utilities",
   "main": "sassmarlo.scss",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mcarreon/sass-marlo/issues"
   },
-  "homepage": "https://github.com/mcarreon/sass-marlo#readme"
+  "homepage": "https://github.com/mcarreon/sass-marlo#readme",
+  "keywords": ["scss", "sass", "utility"]
 }
